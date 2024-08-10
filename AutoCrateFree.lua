@@ -1,3 +1,1 @@
-
-
-game:GetService"Players":Kick("discontinued, temporary")
+game:GetService("Players"):Kick("discontinued, temporary")
