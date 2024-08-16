@@ -178,7 +178,7 @@ do
 		Main.Name = "Main"
 		Main.AnchorPoint = Vector2.new(0.5, 0.5)
 		Main.ZIndex = 0
-		Main.Size = UDim2.new(0, 284, 0, 277)
+		Main.Size = UDim2.new(0, 291, 0, 279)
 		Main.BorderColor3 = Color3.fromRGB(195, 195, 195)
 		Main.BackgroundTransparency = 1
 		Main.Position = UDim2.new(0.5, 0, 0.5, 0)
